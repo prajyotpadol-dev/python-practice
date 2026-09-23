@@ -6,3 +6,4 @@ print("You are", age, "years old.")
 
 print("This is my first GitHub Python program.")
 print("Ready to contribute to open source!")
+print("I am practicing Git branches.")
