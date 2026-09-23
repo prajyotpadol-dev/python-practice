@@ -5,3 +5,4 @@ print("Hello", name)
 print("You are", age, "years old.")
 
 print("This is my first GitHub Python program.")
+print("I am practicing Git branches.")
